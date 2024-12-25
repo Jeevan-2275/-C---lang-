@@ -1,0 +1,24 @@
+17/10/2024
+homework
+**javascript**
+1.loops
+2.if else
+3.switch
+4.let /var /const
+5.data types
+6.operaters
+7.scope
+8.function
+9.Array
+10.object
+**c lang**
+1 to 10 code with harry
+**math**
+sagar dahivadker 1 chap.
+1to 3 chapter 
+**self work**
+test work
+recursion 
+problem 40 complete in c lang
+problem 50 in javascript
+
