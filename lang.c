@@ -71,7 +71,7 @@ Q   5 factorial
   //  return 0;
 // }
 
-Q   6 Reverse number
+// Q   6 Reverse number
 // #include <stdio.h>
 // int main() {
 // int num=56325;

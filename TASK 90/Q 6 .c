@@ -14,7 +14,7 @@ void checkLogin(char *username, char *password) {
     
 }
 
-int main() {n
+int main() {
     char username[100];
     
     char password[100];
